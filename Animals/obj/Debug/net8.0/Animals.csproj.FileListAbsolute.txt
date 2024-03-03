@@ -16,3 +16,4 @@ C:\Users\ememendozar\Code\Patrones\Polymorphism\Animals\obj\Debug\net8.0\refint\
 C:\Users\ememendozar\Code\Patrones\Polymorphism\Animals\obj\Debug\net8.0\Animals.pdb
 C:\Users\ememendozar\Code\Patrones\Polymorphism\Animals\obj\Debug\net8.0\Animals.genruntimeconfig.cache
 C:\Users\ememendozar\Code\Patrones\Polymorphism\Animals\obj\Debug\net8.0\ref\Animals.dll
+C:\Users\ememendozar\Code\Patrones\Polymorphism\Animals\obj\Debug\net8.0\Animals.sourcelink.json
