@@ -3,6 +3,8 @@
 int option;
 Animal animal;
 
+Main();
+
 void Main()
 {
     do

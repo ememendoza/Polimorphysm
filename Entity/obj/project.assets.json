@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ememendozar\\.nuget\\packages\\": {}
+    "/home/ememendozar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ememendozar\\Code\\Patrones\\Polymorphism\\Entity\\Entity.csproj",
+      "projectUniqueName": "/home/ememendozar/Code/Console/Polymorphism/Entity/Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "C:\\Users\\ememendozar\\Code\\Patrones\\Polymorphism\\Entity\\Entity.csproj",
-      "packagesPath": "C:\\Users\\ememendozar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ememendozar\\Code\\Patrones\\Polymorphism\\Entity\\obj\\",
+      "projectPath": "/home/ememendozar/Code/Console/Polymorphism/Entity/Entity.csproj",
+      "packagesPath": "/home/ememendozar/.nuget/packages/",
+      "outputPath": "/home/ememendozar/Code/Console/Polymorphism/Entity/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ememendozar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/ememendozar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnwPliIDz2U/Kjo94Q04/knIqsMeGG8PqTBcWzIFk3VMdKVqicgrZEPeMYrIJPtjsoTZt++HDGTlJBEIPyodtQ==",
+  "dgSpecHash": "PoCaR32mEoonFjbrIbfCqNLfJTDV6/b+GAfkqfLN+W7DJoo9122L/glHJu0djXZNoop4Gyqr+JCv60i6nEPIvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ememendozar\\Code\\Patrones\\Polymorphism\\Animals\\Animals.csproj",
+  "projectFilePath": "/home/ememendozar/Code/Console/Polymorphism/Animals/Animals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

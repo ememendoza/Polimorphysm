@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckltoEmc8pzzCnSC1dKFeYtL7oBJxFF3v6qleilXCB/dtGA3S4ZswlWq+0BZLuChQqNic3WUd0s1C3m5Uf/vfw==",
+  "dgSpecHash": "mEklQ4yqCkfibC31NCZ2+KTL2qs/lOHyzxTl6VTfyaQPLRrqkJiTMR9t4imuk3oJkT3SeHyGMX7xBiP1XNlvUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ememendozar\\Code\\Patrones\\Polymorphism\\Entity\\Entity.csproj",
+  "projectFilePath": "/home/ememendozar/Code/Console/Polymorphism/Entity/Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
